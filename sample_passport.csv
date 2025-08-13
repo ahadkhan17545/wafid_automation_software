@@ -1,0 +1,11 @@
+country,city,traveled_country,first_name,last_name,dob,nationality,gender,marital_status,passport,confirm_passport,passport_issue_date,passport_issue_place,passport_expiry_on,visa_type,email,phone,national_id,applied_position
+Nigeria,Lagos,Saudi Arabia,John,Doe,14/05/90,Nigerian,male,unmarried,A12345678,A12345678,10/04/18,Lagos,09/04/28,wv,john.doe@example.com,+2348012345678,NG1234567890,Mechanical Engineer
+India,Mumbai,Saudi Arabia,Priya,Sharma,02/11/88,Indian,female,married,B98765432,B98765432,21/08/17,Mumbai,20/08/27,wv,priya.sharma@example.com,+919876543210,IN2345678901,Nurse
+Egypt,Cairo,Saudi Arabia,Ahmed,Hassan,23/07/92,Egyptian,male,unmarried,C45678901,C45678901,15/05/19,Cairo,14/05/29,wv,ahmed.hassan@example.com,+201234567890,EG3456789012,Driver
+Philippines,Manila,Saudi Arabia,Maria,Santos,30/03/78,Filipino,female,married,D23456789,D23456789,05/10/15,Manila,04/10/25,wv,maria.santos@example.com,+639123456789,PH4567890123,Housekeeper
+Pakistan,Karachi,Saudi Arabia,Ali,Khan,17/12/95,Pakistani,male,unmarried,E34567890,E34567890,12/01/20,Karachi,11/01/30,wv,ali.khan@example.com,+923001234567,PK5678901234,Security Guard
+Kenya,Nairobi,Saudi Arabia,Grace,Otieno,05/04/88,Kenyan,female,married,F12345678,F12345678,30/06/16,Nairobi,29/06/26,wv,grace.otieno@example.com,+254701234567,KE6789012345,Chef
+Bangladesh,Dhaka,Saudi Arabia,Rahim,Ahmed,29/09/91,Bangladeshi,male,unmarried,G98765432,G98765432,01/12/18,Dhaka,30/11/28,wv,rahim.ahmed@example.com,+8801712345678,BD7890123456,Electrician
+Ghana,Accra,Saudi Arabia,Akosua,Mensa,11/02/93,Ghanaian,female,unmarried,H45678901,H45678901,20/09/19,Accra,19/09/29,wv,akosua.mensa@example.com,+233201234567,GH8901234567,Teacher
+Ethiopia,Addis Ababa,Saudi Arabia,Daniel,Abebe,25/06/87,Ethiopian,male,married,I23456789,I23456789,15/03/14,Addis Ababa,14/03/24,wv,daniel.abebe@example.com,+251911234567,ET9012345678,Plumber
+Indonesia,Jakarta,Saudi Arabia,Siti,Nurhaliza,19/08/94,Indonesian,female,unmarried,J34567890,J34567890,11/11/19,Jakarta,10/11/29,wv,siti.nurhaliza@example.com,+628123456789,ID0123456789,Waitress
